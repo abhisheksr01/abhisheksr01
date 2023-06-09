@@ -29,7 +29,9 @@
 
 ###
 
-<p align="left">I am a DevOps and DevSecOps advocate with an appreciation of the benefits of software craft, emergent design, Agile and XP practices.<br><br>Domain experience in Banking Sales, Business Banking & Fraud Auditing Applications.<br>E-Commerce Domain in B2B, B2C & Multisite Applications.<br><br>Loves to explore & Experiment with open source projects & continuously integrate them to achieve the best of Cloud Native practices. Highly passionate about Learning, Practicing, Teaching DevOps & DevSecOps practices.<br><br>My mantra to a team’s success is “Experiment & break the barriers together”.</p>
+<p align="left">I am a DevOps and DevSecOps advocate with an appreciation of the benefits of software craft, emergent design, Agile and XP practices.</br>
+<br>Loves to explore & Experiment with open source projects & continuously integrate them to achieve the best of Cloud Native practices.</br>
+<br> Highly passionate about Learning, Practicing, Teaching DevOps & DevSecOps practices.<br><br>My mantra to a team’s success is “Experiment & break the barriers together”.</p>
 
 ###
 
@@ -80,8 +82,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksr01&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github Stats" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhisheksr01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksr01&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=abhisheksr01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 
 ###
